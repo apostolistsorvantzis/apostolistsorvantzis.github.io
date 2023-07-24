@@ -1,4 +1,6 @@
 title: Apostolis Tsorvantzis
 logo: ./profil_portfolio1.jpg
+social-network-links:
+  email: "atsorvat@gmail.com"
 #show_downloads: true
 theme: jekyll-theme-minimal
