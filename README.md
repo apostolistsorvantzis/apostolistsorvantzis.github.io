@@ -1,3 +1,2 @@
-# Apostolis Tsorvantzis
 
 ### Publications
