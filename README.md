@@ -5,4 +5,4 @@ My research interests include Online Learning, Bandit Problems and AGT (Mechanis
 
 
 ## Publications
-1. #### Bandits with Deterministically Evolving States. Khashayar Khosravi, Renato Paes Leme, Chara Podimata, Apostolis Tsorvantzis [PDF](https://arxiv.org/pdf/2307.11655.pdf)
+1. #### Bandits with Deterministically Evolving States. Khashayar Khosravi, Renato Paes Leme, Chara Podimata, Apostolis Tsorvantzis [(PDF)](https://arxiv.org/pdf/2307.11655.pdf)
