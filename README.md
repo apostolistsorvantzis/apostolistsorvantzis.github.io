@@ -1,6 +1,6 @@
 # Apostolis Tsorvantzis
 
-![Apostolis](profil_portforlio.jpg)
+![Apostolis](./profil_portforlio.jpg)
 
 
 
