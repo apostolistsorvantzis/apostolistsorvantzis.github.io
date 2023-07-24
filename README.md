@@ -1,6 +1,6 @@
 # Apostolis Tsorvantzis
 
-![EEG Band Discovery](/profil_portforlio.jpg)
+![Apostolis](/profil_portforlio.jpg)
 
 
 
