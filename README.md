@@ -5,5 +5,7 @@ Contact me at:
 #### atsorvat[at]gmail.com
 
 
-## Publications
-1. #### Bandits with Deterministically Evolving States. Khashayar Khosravi, Renato Paes Leme, Chara Podimata, Apostolis Tsorvantzis [(PDF)](https://arxiv.org/pdf/2307.11655.pdf)
+## Conference Publications
+1. #### Preferences Evolve And So Should Your Bandits: Bandits with
+Evolving States for Online Platforms. Khashayar Khosravi, [Renato Paes Leme](https://www.renatoppl.com/), [Chara Podimata](https://www.charapodimata.com/), Apostolis Tsorvantzis (EC24)
+[(PDF)](https://arxiv.org/pdf/2307.11655.pdf) 
