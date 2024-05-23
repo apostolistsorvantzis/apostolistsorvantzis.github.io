@@ -1,5 +1,5 @@
 ## About
-Hi! I'm a 1st year phd student at the Department of Electrical and Computer Engineering at the National Technical University of Athens (NTUA) and an researcher at [Archimedes Unit/Athena Research Center](https://archimedesai.gr/en/). I am fortunate to be advised by:[Constantine Caramanis](https://caramanis.github.io/), [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/), [Chara Podimata](https://www.charapodimata.com/)
+Hi! I'm a 1st year phd student in the Department of Electrical and Computer Engineering at the National Technical University of Athens (NTUA) and at [Archimedes AI](https://archimedesai.gr/en/). I am fortunate to be advised by: [Constantine Caramanis](https://caramanis.github.io/), [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/), and [Chara Podimata](https://www.charapodimata.com/). 
 
 Contact me at: 
 #### atsorvat[at]gmail.com
